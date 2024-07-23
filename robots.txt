@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://foribund.github.io/sitemap
+Sitemap: https://foribund.github.io/app/sitemap
+Sitemap: https://foribund.github.io/assets/sitemap
+Sitemap: https://foribund.github.io/css/sitemap
+Sitemap: https://foribund.github.io/includes/sitemap
+Sitemap: https://foribund.github.io/item/sitemap
+Sitemap: https://foribund.github.io/src/sitemap
